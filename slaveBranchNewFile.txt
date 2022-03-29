@@ -1,3 +1,7 @@
 Hello world
+<<<<<<< HEAD
 Main: New line added
 Main: 2nd New Line Added
+=======
+Dev: New line added
+>>>>>>> dev
