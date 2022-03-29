@@ -3,7 +3,19 @@ Hello world
 Main: New line added
 Main: 2nd New Line Added
 Main: 3rd New Line Added
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Main:4th New Line Added 
 Main:5th New Line Added
 
 
+=======
+Main:4th New Line Added
+Main:5th New line Added
+Main:6th New Line Added
+>>>>>>> Stashed changes
+=======
+Main:4th New Line Added
+Main:5th New line Added
+Main:6th New Line Added
+>>>>>>> Stashed changes
